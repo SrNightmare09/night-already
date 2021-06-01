@@ -15,4 +15,4 @@ All notable changes to the "night-already" extension will be documented in this 
 <ul>
   <li>Upgraded terminal looks - better cursor blinking color</li>
   <li>Upgraded preview (autocomplete) window - better colors for params and sub-args</li>
-</ul
+</ul>
