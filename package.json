@@ -5,6 +5,9 @@
     "version": "0.0.1",
     "publisher": "SrNightmare09",
     "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/SrNightmare09/night-already"
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
