@@ -1,0 +1,21 @@
+{
+    "name": "night-already",
+    "displayName": "night-already",
+    "description": "to be edited",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Already",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Already-color-theme.json"
+            }
+        ]
+    }
+}
