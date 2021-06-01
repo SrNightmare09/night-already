@@ -2,8 +2,11 @@
 
 All notable changes to the "night-already" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.0
+<ul>
+<li>Initial Release</li></ul>
 
-## [Unreleased]
-
-- Initial release
+## 1.0.1
+<ul>
+<li>Update README.md</li>
+</ul>
