@@ -1,5 +1,5 @@
 # Night Already 🌙
-A Visual Studio Code theme for the ones who code all day. Perfect for the all-nighters who have caffeine ☕️ by their side. Hey, it's night already! Perfect mixture of contrast and comfort. This theme is well suitable for anyone who loves dark themes. ✨
+A Visual Studio Code theme for the ones who code all day. Perfect for the all-nighters who have caffeine ☕️ by their side. Perfect mixture of contrast and comfort. This theme is well suitable for anyone who loves dark themes. ✨
 
 ## Preview
 <img src = "https://github.com/SrNightmare09/night-already/blob/master/preview.png?raw=true">
@@ -9,9 +9,9 @@ A Visual Studio Code theme for the ones who code all day. Perfect for the all-ni
 <li>Install extension in Visual Studio Code</li>
 <ul>
   <li>Select <b>Extensions</b> in Activity Bar</li>
-  <li>Search for <code>night-already</code></li>
+  <li>Search for <code>Night Already</code></li>
   <li>Click <b>Install</b> to install the extension</li>
-  <li><b>Reload</b> the window and set <code>night-already</code> as your color theme</li>
+  <li><b>Reload</b> the window and set <code>Night Already</code> as your color theme</li>
   <li>See the magic 🪄</li>
 </ul>
 <li>Install extension through browser</li>
@@ -19,7 +19,7 @@ A Visual Studio Code theme for the ones who code all day. Perfect for the all-ni
 <li><a href = "https://marketplace.visualstudio.com/items?itemName=SrNightmare09.night-already&ssr=false#overview">Click this link</a></li>
   <li>Click <b>Install</b> and open extension in Visual Studio Code</li>
   <li>Click <b>Install</b> to install the extension</li>
-  <li><b>Reload</b> the window and set <code>night-already</code> as your color theme</li>
+  <li><b>Reload</b> the window and set <code>Night Already</code> as your color theme</li>
   <li>See the magic 🪄</li>
 </ul>
 </ol>
