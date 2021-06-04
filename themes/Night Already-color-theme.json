@@ -1,5 +1,5 @@
 {
-	"name": "night-already - Fork",
+	"name": "night-already",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -1866,7 +1866,7 @@
 	  "list.inactiveSelectionForeground": "#cccccc",
 	  "list.hoverBackground": "#2a2d2e",
 	  "list.hoverForeground": "#cccccc",
-	  "list.activeSelectionBackground": "#11a730",
+	  "list.activeSelectionBackground": "#05a5535e",
 	  "list.activeSelectionForeground": "#ffffff",
 	  "tree.indentGuidesStroke": "#585858",
 	  "list.dropBackground": "#383b3d",
