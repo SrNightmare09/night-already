@@ -20,7 +20,7 @@ A Visual Studio Code theme for the ones who code all day. Perfect for the all-ni
   <li>Click <b>Install</b> and open extension in Visual Studio Code</li>
   <li>Click <b>Install</b> to install the extension</li>
   <li><b>Reload</b> the window and set <code>Night Already</code> as your color theme</li>
-  <li>See the magic 🪄</li>
+  <li>See the magic 🔮</li>
 </ul>
 </ol>
 
