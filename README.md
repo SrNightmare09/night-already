@@ -2,7 +2,7 @@
 A Visual Studio Code theme for the ones who code all day. Perfect for the all-nighters who have caffeine ☕️ by their side. Perfect mixture of contrast and comfort. This theme is well suitable for anyone who loves dark themes. ✨
 
 ## Preview
-<img src = "https://github.com/SrNightmare09/night-already/blob/master/images/preview.png?raw=true">
+<img src = "images/preview.png">
 
 ## Installation
 <ol>
@@ -42,7 +42,7 @@ A Visual Studio Code theme for the ones who code all day. Perfect for the all-ni
 <samp>
 This is my first theme ever, which means it's bound to have some problems, <a href = "https://github.com/SrNightmare09/night-already/issues">file an issue</a> if you find anything missing.
 
-Before filing an issue, make sure to check out the <a href = "../CHANGELOG.md">changelog</a>.
+Before filing an issue, make sure to check out the <a href = "CHANGELOG.md">changelog</a>.
 </samp>
 
 Made with <3 by SrNightmare09
